@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E7425F&random=false&width=680&lines=Hi+there%2C+I'm+Mguel+Castro;Full-Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E7425F&random=false&width=680&lines=Hi+there%2C+I'm+Miguel+Castro;Full-Stack+Developer!)](https://git.io/typing-svg)
  
 - Studying a Computer Science at COTUCA-UNICAMP 
 - Expected completion: December 2025
