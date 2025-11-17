@@ -14,5 +14,5 @@
 </p>
 
 <div align="center">
-  <a https://www.linkedin.com/in/miguel-castro-chaga-silva-890584227/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "https://www.linkedin.com/in/miguel-castro-chaga-silva-890584227/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
