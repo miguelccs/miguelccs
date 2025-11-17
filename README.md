@@ -12,3 +12,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,arduino,swift,c,cpp,cs,docker,dart,react,java,py,unity,firebase,flutter,linux,mysql,nextjs,nodejs,obsidian,vite" />
   </a>
 </p>
+
+<div align="center">
+  <a https://www.linkedin.com/in/miguel-castro-chaga-silva-890584227/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
